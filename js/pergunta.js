@@ -33,7 +33,6 @@ export const perguntas = [
             ]
         },
 
-        {
             {
     enunciado: "De que maneiras a dependência excessiva de ferramentas de IA generativa no ambiente de trabalho afeta o desenvolvimento profissional?",
     alternativas: [
