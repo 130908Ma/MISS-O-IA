@@ -1,52 +1,56 @@
 export const perguntas = [
     {
-        enunciado: "Como a caça ilegal afeta o equilíbrio das cadeias alimentares e a preservação de espécies ameaçadas de extinção nas florestas tropicais?",
+        enunciado: "Como o uso mal-intencionado da IA afeta a segurança cibernética e a preservação da privacidade dos dados de usuários na internet?",
         alternativas: [
             {
-                texto: "A caça ilegal compromete a biodiversidade ao reduzir drasticamente as populações de espécies-chave, o que pode levar ao      colapso de ecossistemas inteiros.",
-                afirmacao: ["A remoção de predadores e espécies-chave quebra o controle populacional da fauna local, desequilibrando a cadeia alimentar e ameaçando o colapso do ecossistema.",
-                           "Quando predadores e espécies-chave são eliminados, o controle da fauna local se perde, desregulando a rede alimentar e colocando todo o ecossistema em risco de colapso." ]
+                texto: "O uso mal-intencionado compromete a segurança digital ao automatizar ataques cibernéticos em grande escala, o que pode levar ao colapso de infraestruturas inteiras.",
+                afirmacao: ["A automação de golpes e a criação de malwares por IA quebram os sistemas de defesa tradicionais, desequilibrando a proteção de dados e ameaçando o colapso da segurança digital.",
+                           "Quando ataques automatizados por IA são aplicados, o controle da segurança de dados se perde, desregulando as redes de proteção e colocando toda a infraestrutura digital em risco de colapso." ]
             },
             {
-                texto:  "A remoção de animais frugívoros pela caça ilegal prejudica a dispersão de sementes, afetando diretamente a regeneração natural das florestas.",
-                afirmacao: "A redução de animais frugívoros impede a dispersão natural de sementes, bloqueando a reprodução das árvores e comprometendo o futuro da floresta.",
-                            "Sem uma população suficiente de animais que se alimentam de frutos, as sementes não se espalham naturalmente, travando a regeneração das árvores e ameaçando a floresta."
+                texto:  "A proliferação de algoritmos tendenciosos de IA prejudica o tratamento justo de informações, afetando diretamente a confiabilidade das decisões automatizadas.",
+                afirmacao: ["A redução da neutralidade nos algoritmos impede o processamento justo de informações, bloqueando a equidade nas decisões e comprometendo o futuro da ética tecnológica.",
+                            "Sem uma supervisão suficiente dos dados que alimentam a IA, os preconceitos algorítmicos se espalham naturalmente, travando a evolução de sistemas justos e ameaçando a confiança na tecnologia."]
             }    
            
         ]
     },
     {
        
-            enunciado: "Quais das opções a seguir apresentam formas reais pelas quais a caça ilegal afeta o meio ambiente e as comunidades locais?",
+            enunciado: "Quais das opções a seguir apresentam impactos reais pelas quais o avanço descontrolado da IA afeta o mercado de trabalho e a sociedade?",
             alternativas: [
                 {
-                    texto: "Provoca a alteração da estrutura vegetal da floresta ao diminuir o consumo e o pisoteio natural de herbívoros.",
-                    afirmacao: ["A escassez de herbívoros modifica a densidade do solo e a competição entre plantas, alterando toda a composição e a estrutura da vegetação local.",
-                                    "Sem uma população suficiente de animais que se alimentam de frutos, as sementes não se espalham naturalmente, travando a regeneração das árvores e ameaçando a floresta."]
+                    texto: "Provoca a alteração da estrutura de funções nas empresas ao diminuir a necessidade de profissionais em tarefas técnicas e operacionais.",
+                    afirmacao: ["A escassez de vagas operacionais modifica as exigências de qualificação e a competição entre profissionais, alterando toda a composição e a estrutura do mercado de trabalho local.",
+                                    "Sem uma supervisão suficiente dos dados que alimentam a IA, os preconceitos algorítmicos se espalham naturalmente, travando a evolução de sistemas justos e ameaçando a confiança na tecnologia."]
                 },
                 {
-                    texto:  "Alimenta redes do crime organizado transnacional, enfraquecendo a segurança e a governança nas regiões afetadas. ",
-                    afirmacao: ["O comércio ilícito de fauna financia redes criminosas globais, promovendo a corrupção, a violência e a instabilidade econômica em comunidades vulneráveis.",
-                                    "Ao financiar redes criminosas pelo mundo, o comércio ilegal de fauna gera corrupção e violência, além de desestabilizar a economia de comunidades vulneráveis."]
+                    texto:  "Alimenta campanhas massivas de desinformação automatizada, enfraquecendo a segurança da informação e a governança nas regiões afetadas. ",
+                    afirmacao: ["A criação ilícita de conteúdos falsos financia redes de manipulação globais, promovendo a desconfiança, a polarização e a instabilidade social em comunidades vulneráveis.",
+                                    "Ao financiar redes de manipulação pelo mundo, o uso ilegal de geradores de fake news gera desconfiança e polarização, além de desestabilizar a coesão social de comunidades vulneráveis."]
                 }    
                
+            ]
+        },
+
+        {
+            {
+    enunciado: "De que maneiras a dependência excessiva de ferramentas de IA generativa no ambiente de trabalho afeta o desenvolvimento profissional?",
+    alternativas: [
+        {
+            texto: "Diminui a capacidade de pensamento crítico e resolução de problemas, pois as soluções prontas deixam espaço para a passividade.",
+            afirmacao: [
+                "Sem o esforço intelectual para resolver desafios complexos, os profissionais deixam de exercitar o raciocinar por conta própria. Isso reduz a originalidade e compromete o surgimento de novas lideranças e ideias inovadoras no mercado.",
+                "A ausência de espaço para o esforço cognitivo afeta diretamente o crescimento profissional, pois restringe a autonomia, diminui a capacidade analítica e ameaça a evolução futura de competências estratégicas."
             ]
         },
         {
-            enunciado: "De que maneiras a perda de animais frugívoros devido à caça afeta a estrutura e a saúde das florestas tropicais?",
-
-            alternativas: [
-                {
-                    texto: "Diminui a diversidade de plantas nativas, pois sementes grandes deixam de ser transportadas para novas áreas.",
-                    afirmacao: ["Sem grandes frugívoros para dispersar sementes pesadas, as espécies de árvores de grande porte não se reproduzem longe da planta-mãe. Isso reduz a diversidade genética e compromete o surgimento de novas gerações dessas árvores na floresta.",
-                                    "A ausência de grandes frugívoros afeta diretamente a reprodução das árvores maiores, pois restringe o alcance de suas sementes, diminui a genética local e ameaça a geração futura da floresta."]
-                },
-                {
-                    texto:    "Altera a composição da vegetação, favorecendo a proliferação de plantas com sementes menores ou dispersas pelo vento.",
-                    afirmacao: ["A ausência de grandes animais abre espaço para a proliferação de plantas oportunistas ou de sementes leves. Com o tempo, a floresta perde sua estrutura original e diminui sua capacidade de estocar carbono.",
-                                    "A escassez de grandes animais favorece o avanço de plantas oportunistas e espécies de sementes leves. Gradualmente, a floresta vê sua estrutura original se degradar, reduzindo sua eficiência no armazenamento de carbono."]
-                }    
-               
+            texto: "Altera o perfil das competências valorizadas, favorecendo a proliferação de profissionais focados apenas em automação ou comandos operacionais.",
+            afirmacao: [
+                "A ausência de habilidades profundas abre espaço para a proliferação de trabalhadores puramente operacionais ou de tarefas superficiais. Com o tempo, o mercado perde sua força criativa original e diminui sua capacidade de gerar inovação real.",
+                "A escassez de pensamento crítico favorece o avanço de profissionais focados apenas em replicar padrões e usar prompts prontos. Gradualmente, a força de trabalho vê sua estrutura de especialização se degradar, reduzindo sua eficiência na criação de valor único."
             ]
-        },
+        }    
+    ]
+},
 ];
