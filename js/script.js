@@ -29,11 +29,11 @@ function mostraAlternativas(){
 
 }
 function respostaSelecionada(opcaoSelecionada) {
-    const afirmacoes = aleatorio (opcaoSelecionada.afirmacao);
+    const afirmacoes = aleatorio(opcaoSelecionada.afirmacao);
     historiaFinal += afirmacoes + " ";
     atual++
     mostraPergunta();
-
+}
     function aleatorio(lista) {
 const posicao = Math.floor(Math.random()* lista.length);
 return lista[posicao];
